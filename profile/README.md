@@ -2,6 +2,8 @@
 
 Random Llama Image API. The world's first Llama as a Service (LaaS) - by @spencerlepine
 
+> ⚠️ Heroku Deployment may be depreciated
+
 #### ✅ Try It Out:
 ```sh
 curl https://llama-as-a-service-images.herokuapp.com/random
@@ -15,7 +17,7 @@ curl https://llama-as-a-service-images.herokuapp.com/random
 
 ## 🎥 Walkthrough Video
 
-[![YouTube Video](https://user-images.githubusercontent.com/60903378/178522554-bdd1e702-b01c-4433-8d11-2b8e4ccf4f75.png)](TODO)
+[![YouTube Video](https://user-images.githubusercontent.com/60903378/202875326-30bc7b91-3bf3-48be-a688-c74493fb4964.png)](https://www.youtube.com/watch?v=uDQUA_JTMJk)
 
 ## 💡 Blog Post
 Read about the development process and what I learned on my [blog post](https://www.spencerlepine.com/blog/building-llama-as-a-service)
