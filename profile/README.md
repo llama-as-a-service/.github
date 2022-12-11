@@ -2,7 +2,7 @@
 
 Random Llama Image API. The world's first Llama as a Service (LaaS) - by @spencerlepine
 
-> ⚠️ Heroku Deployment may be depreciated
+> ⚠️ Heroku Deployment may be deprecated
 
 #### ✅ Try It Out:
 ```sh
